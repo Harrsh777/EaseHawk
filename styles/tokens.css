@@ -1,0 +1,18 @@
+/* EaseHawk design tokens — extracted from TITAN shell */
+:root{
+  --void:#050508;
+  --carbon:#0B0B10;
+  --panel:rgba(255,255,255,.028);
+  --line:rgba(255,255,255,.09);
+  --line-soft:rgba(255,255,255,.055);
+  --ink:#F5F4F8;
+  --ink-dim:rgba(245,244,248,.78);
+  --ink-faint:rgba(245,244,248,.38);
+  --signal:#FFDD00;
+  --flare:#FF810F;
+  --iris:#7D7DDD;
+  --display:'Jost',sans-serif;
+  --body:'Poppins',sans-serif;
+  --ease:cubic-bezier(.16,1,.3,1);
+  --gutter:clamp(20px,5vw,84px);
+}

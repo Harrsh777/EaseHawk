@@ -1,0 +1,237 @@
+{
+  "home": {
+    "title": "EaseHawk Technologies — Engineering Intelligent Enterprises",
+    "description": "EaseHawk Technologies is a global AI Transformation company helping governments, enterprises and high-growth organisations modernise with AI, enterprise platforms, cloud engineering, data intelligence and world-class digital execution.",
+    "ogTitle": "EaseHawk Technologies — Engineering Intelligent Enterprises",
+    "ogDescription": "EaseHawk Technologies is a global AI Transformation company helping governments, enterprises and high-growth organisations modernise with AI, enterprise platforms, cloud engineering, data intelligence and world-class digital execution.",
+    "noindex": false,
+    "jsonLd": [],
+    "accent": "#FF810F",
+    "type": "titan",
+    "file": "EaseHawk_TITAN_Website.html"
+  },
+  "capabilities": {
+    "title": "Capabilities — Proven in Production | EaseHawk Technologies",
+    "description": "Six capabilities, every one backed by named clients and shipped work: software engineering, AI &amp; automation, CRM &amp; enterprise platforms, data &amp; BI, brand &amp; video, and embedded talent. From ADNOC to Amazon Payment Services, across six countries.",
+    "ogTitle": "Capabilities — Proven in Production | EaseHawk Technologies",
+    "ogDescription": "Six capabilities, every one backed by named clients and shipped work: software engineering, AI &amp; automation, CRM &amp; enterprise platforms, data &amp; BI, brand &amp; video, and embedded talent. From ADNOC to Amazon Payment Services, across six countries.",
+    "noindex": false,
+    "jsonLd": [],
+    "accent": "#FFDD00;--acc:#FFDD00",
+    "type": "titan",
+    "file": "EaseHawk_Capabilities.html"
+  },
+  "industries": {
+    "title": "Industries — Sector Fluency, Proven | EaseHawk Technologies",
+    "description": "Eight industries served through delivered work: government, energy, manufacturing, financial services, logistics, technology, consumer and non-profit — with named clients from ADNOC to Amazon Payment Services, and two full industry platforms.",
+    "ogTitle": "Industries — Sector Fluency, Proven | EaseHawk Technologies",
+    "ogDescription": "Eight industries served through delivered work: government, energy, manufacturing, financial services, logistics, technology, consumer and non-profit — with named clients from ADNOC to Amazon Payment Services, and two full industry platforms.",
+    "noindex": false,
+    "jsonLd": [],
+    "accent": "#FFDD00;--acc:#FFDD00",
+    "type": "titan",
+    "file": "EaseHawk_Industries.html"
+  },
+  "success-stories": {
+    "title": "Success Stories — Receipts, Not References | EaseHawk Technologies",
+    "description": "Seventeen delivered engagements with named clients: SERCO, ADNOC-Fertiglobe, Amazon Payment Services, Ministry of Culture UAE, UTAC, Tigo Energy and more — across engineering, AI, CRM, data, creative and embedded talent.",
+    "ogTitle": "Success Stories — Receipts, Not References | EaseHawk Technologies",
+    "ogDescription": "Seventeen delivered engagements with named clients: SERCO, ADNOC-Fertiglobe, Amazon Payment Services, Ministry of Culture UAE, UTAC, Tigo Energy and more — across engineering, AI, CRM, data, creative and embedded talent.",
+    "noindex": false,
+    "jsonLd": [],
+    "accent": "'+c.acc+';--i:'+i+'",
+    "type": "titan",
+    "file": "EaseHawk_Success_Stories.html"
+  },
+  "moxsuite": {
+    "title": "MoxSuite — One Intelligent Core. An Entire Ecosystem. | EaseHawk Technologies",
+    "description": "MoxSuite is a unified, AI-native product platform: one governed data foundation and one intelligence core powering MoxSend, MoxWarm, MoxCheck, MoxCRM, MoxQuote and MoxFinance — plus the MoxCampus and MoxRev industry platforms.",
+    "ogTitle": "MoxSuite — One Intelligent Core. An Entire Ecosystem. | EaseHawk Technologies",
+    "ogDescription": "MoxSuite is a unified, AI-native product platform: one governed data foundation and one intelligence core powering MoxSend, MoxWarm, MoxCheck, MoxCRM, MoxQuote and MoxFinance — plus the MoxCampus and MoxRev industry platforms.",
+    "noindex": false,
+    "jsonLd": [],
+    "accent": "#FFDD00",
+    "type": "titan",
+    "file": "MoxSuite_Page.html"
+  },
+  "careers": {
+    "title": "Careers — Do Work Worth Naming | EaseHawk Technologies",
+    "description": "Four open AI and data roles at EaseHawk: Senior AI Engineer, AI Solutions Architect, Data Architect, ML &amp; Data Engineer. No bench, named clients from ADNOC to Amazon Payment Services, and an AI product platform to build.",
+    "ogTitle": "Careers — Do Work Worth Naming | EaseHawk Technologies",
+    "ogDescription": "Four open AI and data roles at EaseHawk: Senior AI Engineer, AI Solutions Architect, Data Architect, ML &amp; Data Engineer. No bench, named clients from ADNOC to Amazon Payment Services, and an AI product platform to build.",
+    "noindex": false,
+    "jsonLd": [],
+    "accent": "#FFDD00",
+    "type": "titan",
+    "file": "EaseHawk_Careers.html"
+  },
+  "contact": {
+    "title": "Contact — One Message, One Business Day | EaseHawk Technologies",
+    "description": "Contact EaseHawk Technologies: new projects, partnerships, careers or MoxSuite products. A human replies within one business day. HQ Gurugram, India, delivering across GCC, India, North America, UK and APAC.",
+    "ogTitle": "Contact — One Message, One Business Day | EaseHawk Technologies",
+    "ogDescription": "Contact EaseHawk Technologies: new projects, partnerships, careers or MoxSuite products. A human replies within one business day. HQ Gurugram, India, delivering across GCC, India, North America, UK and APAC.",
+    "noindex": false,
+    "jsonLd": [],
+    "accent": "#FFDD00",
+    "type": "titan",
+    "file": "EaseHawk_Contact.html"
+  },
+  "video-portfolio": {
+    "title": "Video Portfolio — 18 Films, Press Play | EaseHawk Technologies",
+    "description": "The EaseHawk showreel: promotional films, 2D explainers, character animation and tutorials for Amazon Payment Services, Tigo Energy, Leanplum, Roambee, Creative Zone and more. Watch in-page.",
+    "ogTitle": "Video Portfolio — 18 Films, Press Play | EaseHawk Technologies",
+    "ogDescription": "The EaseHawk showreel: promotional films, 2D explainers, character animation and tutorials for Amazon Payment Services, Tigo Energy, Leanplum, Roambee, Creative Zone and more. Watch in-page.",
+    "noindex": false,
+    "jsonLd": [],
+    "accent": "'+CATC[v.cat]+';--i:'+i+'",
+    "type": "titan",
+    "file": "EaseHawk_Video_Portfolio.html"
+  },
+  "software-engineering": {
+    "title": "Software Engineering & Digital Transformation Company | EaseHawk Technologies",
+    "description": "Enterprise software engineering delivered across four continents — platforms, portals and legacy modernisation for SERCO, Towell International, Viita and more. AI-accelerated delivery, human signed-off. Reply in one business day.",
+    "ogTitle": "Software Engineering & Digital Transformation Company | EaseHawk Technologies",
+    "ogDescription": "Enterprise software engineering delivered across four continents — platforms, portals and legacy modernisation for SERCO, Towell International, Viita and more. AI-accelerated delivery, human signed-off. Reply in one business day.",
+    "noindex": false,
+    "jsonLd": [
+      "{\"@context\": \"https://schema.org\", \"@type\": \"FAQPage\", \"mainEntity\": [{\"@type\": \"Question\", \"name\": \"How fast can you deliver an enterprise platform?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Our benchmark: a government-grade national operations centre in nine months, discovery to production. Typical platform builds run six to twelve months depending on integrations — you'll get a scoped timeline after one conversation, not a guess.\"}}, {\"@type\": \"Question\", \"name\": \"Which technologies do you work with?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Modern web stacks (JavaScript/TypeScript, Python, cloud-native on AWS and Azure) plus the enterprise estates around them — SAP, Oracle, Dynamics, Salesforce. We choose the stack that your team can operate, not the one that's fashionable.\"}}, {\"@type\": \"Question\", \"name\": \"How is AI used in your engineering delivery?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"In the loop, not in the pitch: AI-assisted analysis for legacy mapping, generated test suites, machine-speed regression and delivery telemetry with risk flags. Every deliverable is human-reviewed and human-signed.\"}}, {\"@type\": \"Question\", \"name\": \"Do you work fixed-price?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Yes — fixed scope, fixed outcome is one of our three engagement models, alongside embedded squads and managed retainers. After one call you get a scoped number, not a menu of mystery rates.\"}}]}",
+      "{\"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"EaseHawk Technologies Private Limited\", \"url\": \"https://easehawk.com\", \"email\": \"info@easehawk.com\", \"telephone\": [\"+17622787611\", \"+919958478569\"], \"address\": {\"@type\": \"PostalAddress\", \"streetAddress\": \"WeWork India, DLF Forum, Cybercity Phase III\", \"addressLocality\": \"Gurugram\", \"addressRegion\": \"Haryana\", \"postalCode\": \"122002\", \"addressCountry\": \"IN\"}, \"sameAs\": [\"https://www.linkedin.com/company/easehawk\"]}"
+    ],
+    "accent": "#FF810F",
+    "type": "capability",
+    "file": "EaseHawk_Software_Engineering.html",
+    "form": {
+      "email": "info@easehawk.com",
+      "subjectPrefix": "EaseHawk Software Engineering enquiry — ",
+      "source": "Software Engineering landing page"
+    }
+  },
+  "ai-automation": {
+    "title": "AI & Intelligent Automation Services — Agents, Chatbots, Workflow Automation | EaseHawk",
+    "description": "AI that runs operations, not slideware: ~80% of a 50+ truck US logistics operation automated; a bilingual EN/AR AI assistant live in Saudi Arabia. LLM engineering, AI agents and workflow automation with evals and guardrails.",
+    "ogTitle": "AI & Intelligent Automation Services — Agents, Chatbots, Workflow Automation | EaseHawk",
+    "ogDescription": "AI that runs operations, not slideware: ~80% of a 50+ truck US logistics operation automated; a bilingual EN/AR AI assistant live in Saudi Arabia. LLM engineering, AI agents and workflow automation with evals and guardrails.",
+    "noindex": false,
+    "jsonLd": [
+      "{\"@context\": \"https://schema.org\", \"@type\": \"FAQPage\", \"mainEntity\": [{\"@type\": \"Question\", \"name\": \"What can actually be automated in my business?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"More than you'd guess, less than vendors promise. We start with the workflows that eat the most hours — dispatch, document handling, coordination, reporting — and automate end-to-end, measuring the hours saved. One client now runs ~80% of daily operations automated; your number depends on your operation, and we'll tell you honestly.\"}}, {\"@type\": \"Question\", \"name\": \"Is our data safe — will it train someone else's model?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Your engagement data stays inside your engagement. We design for data residency and PDPL-class constraints from the start, and governance review is part of the build, not an afterthought.\"}}, {\"@type\": \"Question\", \"name\": \"Should we build or buy AI capability?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Both have a place. Off-the-shelf tools for commodity tasks; custom automation where your workflow IS your edge. The first conversation is exactly this triage — and we'll recommend buying where buying is right.\"}}, {\"@type\": \"Question\", \"name\": \"How fast until the first automation is live?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Weeks, not quarters, for the first scoped workflow — then automation compounds release after release. Our longest AI engagement is two years and still shipping.\"}}]}",
+      "{\"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"EaseHawk Technologies Private Limited\", \"url\": \"https://easehawk.com\", \"email\": \"info@easehawk.com\", \"telephone\": [\"+17622787611\", \"+919958478569\"], \"address\": {\"@type\": \"PostalAddress\", \"streetAddress\": \"WeWork India, DLF Forum, Cybercity Phase III\", \"addressLocality\": \"Gurugram\", \"addressRegion\": \"Haryana\", \"postalCode\": \"122002\", \"addressCountry\": \"IN\"}, \"sameAs\": [\"https://www.linkedin.com/company/easehawk\"]}"
+    ],
+    "accent": "#FF810F",
+    "type": "capability",
+    "file": "EaseHawk_AI_Automation.html",
+    "form": {
+      "email": "info@easehawk.com",
+      "subjectPrefix": "EaseHawk AI & Automation enquiry — ",
+      "source": "AI & Automation landing page"
+    }
+  },
+  "crm-enterprise": {
+    "title": "CRM Implementation Partner — Salesforce, Dynamics 365, Zoho, Odoo | EaseHawk Technologies",
+    "description": "CRM your team adopts, not just installs: Salesforce for UK financial services, Dynamics 365 for Saudi industry, Zoho for India's largest volunteer non-profit. Direct Salesforce, Microsoft and Zoho partnerships; SAP and Oracle estate experience.",
+    "ogTitle": "CRM Implementation Partner — Salesforce, Dynamics 365, Zoho, Odoo | EaseHawk Technologies",
+    "ogDescription": "CRM your team adopts, not just installs: Salesforce for UK financial services, Dynamics 365 for Saudi industry, Zoho for India's largest volunteer non-profit. Direct Salesforce, Microsoft and Zoho partnerships; SAP and Oracle estate experience.",
+    "noindex": false,
+    "jsonLd": [
+      "{\"@context\": \"https://schema.org\", \"@type\": \"FAQPage\", \"mainEntity\": [{\"@type\": \"Question\", \"name\": \"Which CRM is right for us — Salesforce, Dynamics, Zoho or Odoo?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"It depends on your stack, scale and budget — and because we hold direct partnerships with all three majors plus Odoo delivery experience, we have no incentive to force one answer. Tell us your situation; we'll recommend the platform we'd choose in your seat.\"}}, {\"@type\": \"Question\", \"name\": \"How risky is migrating our data?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Handled properly: not very. We migrate in staged, testable increments with validation gates at every step — records verified at machine speed before cutover day, with rollback paths defined. No weekend big-bangs.\"}}, {\"@type\": \"Question\", \"name\": \"How do you make sure the team actually adopts it?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Adoption is designed in: workflows configured to how your team really sells, enablement sessions before go-live, and a cutover with zero pipeline disruption. Our UK finance client's Salesforce became the number leadership trusts — that's the bar.\"}}, {\"@type\": \"Question\", \"name\": \"Are you certified partners?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"We hold direct partnerships with Salesforce, Microsoft and Zoho, and have placed senior Dynamics 365 architects on federal government programmes through our channel partners.\"}}]}",
+      "{\"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"EaseHawk Technologies Private Limited\", \"url\": \"https://easehawk.com\", \"email\": \"info@easehawk.com\", \"telephone\": [\"+17622787611\", \"+919958478569\"], \"address\": {\"@type\": \"PostalAddress\", \"streetAddress\": \"WeWork India, DLF Forum, Cybercity Phase III\", \"addressLocality\": \"Gurugram\", \"addressRegion\": \"Haryana\", \"postalCode\": \"122002\", \"addressCountry\": \"IN\"}, \"sameAs\": [\"https://www.linkedin.com/company/easehawk\"]}"
+    ],
+    "accent": "#FF810F",
+    "type": "capability",
+    "file": "EaseHawk_CRM_Enterprise.html",
+    "form": {
+      "email": "info@easehawk.com",
+      "subjectPrefix": "EaseHawk CRM & Enterprise enquiry — ",
+      "source": "CRM & Enterprise landing page"
+    }
+  },
+  "data-bi": {
+    "title": "Data & Business Intelligence Services — Power BI, Data Engineering, AI-Ready Platforms | EaseHawk",
+    "description": "Dashboards leadership actually opens: a year-long embedded Power BI programme inside a global semiconductor leader, daily revenue visibility for a US fleet operator, and AI-ready data foundations beneath it all.",
+    "ogTitle": "Data & Business Intelligence Services — Power BI, Data Engineering, AI-Ready Platforms | EaseHawk",
+    "ogDescription": "Dashboards leadership actually opens: a year-long embedded Power BI programme inside a global semiconductor leader, daily revenue visibility for a US fleet operator, and AI-ready data foundations beneath it all.",
+    "noindex": false,
+    "jsonLd": [
+      "{\"@context\": \"https://schema.org\", \"@type\": \"FAQPage\", \"mainEntity\": [{\"@type\": \"Question\", \"name\": \"Our data is a mess — where do we even start?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Where everyone starts: one decision that matters, traced back to the data it needs. We build that path first — model, pipeline, dashboard — then every next report ships faster than the last because the foundations are reusable.\"}}, {\"@type\": \"Question\", \"name\": \"Why Power BI?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Because it's where enterprise reporting lives — and we've run it at semiconductor-fab scale for a full year, embedded. That said, the modelling discipline underneath matters more than the tool; good foundations outlive any BI front-end.\"}}, {\"@type\": \"Question\", \"name\": \"Embedded specialist or project delivery — which fits?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"If you need a reporting estate built, project delivery. If you need the capability inside your team, embedded — our UTAC engagement ran a year with knowledge transfer throughout, so the capability stayed when we left.\"}}, {\"@type\": \"Question\", \"name\": \"What does 'AI-ready' actually mean?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Modelled, governed, documented data that a language model can query without hallucinating your numbers. It's the difference between AI on top of chaos and AI on top of truth — and it's cheaper to build in now than to retrofit later.\"}}]}",
+      "{\"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"EaseHawk Technologies Private Limited\", \"url\": \"https://easehawk.com\", \"email\": \"info@easehawk.com\", \"telephone\": [\"+17622787611\", \"+919958478569\"], \"address\": {\"@type\": \"PostalAddress\", \"streetAddress\": \"WeWork India, DLF Forum, Cybercity Phase III\", \"addressLocality\": \"Gurugram\", \"addressRegion\": \"Haryana\", \"postalCode\": \"122002\", \"addressCountry\": \"IN\"}, \"sameAs\": [\"https://www.linkedin.com/company/easehawk\"]}"
+    ],
+    "accent": "#FF810F",
+    "type": "capability",
+    "file": "EaseHawk_Data_BI.html",
+    "form": {
+      "email": "info@easehawk.com",
+      "subjectPrefix": "EaseHawk Data & BI enquiry — ",
+      "source": "Data & BI landing page"
+    }
+  },
+  "brand-video": {
+    "title": "Branding & Digital Marketing Agency — Brand Films, Campaigns, Social, SEO & Video Production | EaseHawk",
+    "description": "Full-stack branding and digital marketing: brand systems, films and product videos, performance campaigns, social and content programmes, SEO and email design. Three years with NASDAQ-listed Tigo Energy; campaigns across Amazon × STC and Tabby.",
+    "ogTitle": "Brand, Marketing & Video Production — Brand Films, SaaS Videos, Multi-Market Campaigns | EaseHawk",
+    "ogDescription": "Full-stack branding and digital marketing: brand systems, films and product videos, performance campaigns, social and content programmes, SEO and email design. Three years with NASDAQ-listed Tigo Energy; campaigns across Amazon × STC and Tabby.",
+    "noindex": false,
+    "jsonLd": [
+      "{\"@context\": \"https://schema.org\", \"@type\": \"FAQPage\", \"mainEntity\": [{\"@type\": \"Question\", \"name\": \"How do you use AI in creative work?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"In the pipeline, never on the final frame: AI-assisted research, edit iteration and localisation compress timelines, then human craft signs everything that ships. It's how four market adaptations run in parallel without four parallel budgets.\"}}, {\"@type\": \"Question\", \"name\": \"Can you handle multi-market, multi-language campaigns?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"It's a specialty: four APAC markets for one food brand in a single year, and Arabic-market work across the GCC. Cultural adaptation is treated as strategy, not translation.\"}}, {\"@type\": \"Question\", \"name\": \"Retainer or project — which should we pick?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Steady launch calendar: retainer (our Tigo engagement is three years and counting). One flagship film or a single campaign: project. Both are priced after one scoping call.\"}}, {\"@type\": \"Question\", \"name\": \"What's a realistic turnaround?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Retained clients get announcement-speed delivery — assets cleared against three brand systems have shipped inside partnership launch windows. One-off projects are scoped honestly upfront; we'd rather lose a rush job than miss a date.\"}}]}",
+      "{\"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"EaseHawk Technologies Private Limited\", \"url\": \"https://easehawk.com\", \"email\": \"info@easehawk.com\", \"telephone\": [\"+17622787611\", \"+919958478569\"], \"address\": {\"@type\": \"PostalAddress\", \"streetAddress\": \"WeWork India, DLF Forum, Cybercity Phase III\", \"addressLocality\": \"Gurugram\", \"addressRegion\": \"Haryana\", \"postalCode\": \"122002\", \"addressCountry\": \"IN\"}, \"sameAs\": [\"https://www.linkedin.com/company/easehawk\"]}"
+    ],
+    "accent": "#FF810F",
+    "type": "capability",
+    "file": "EaseHawk_Brand_Video.html",
+    "form": {
+      "email": "info@easehawk.com",
+      "subjectPrefix": "EaseHawk Brand & Video enquiry — ",
+      "source": "Brand & Video landing page"
+    }
+  },
+  "embedded-talent": {
+    "title": "Staff Augmentation & Embedded Tech Talent — AI Engineers, D365 & Salesforce Architects, BI Specialists | EaseHawk",
+    "description": "Enterprise-vetted specialists embedded in weeks, cleared for the strictest doors: two specialists inside ADNOC-Fertiglobe via Protiviti, two senior D365 architects on a UAE federal ministry programme via Alpha Data.",
+    "ogTitle": "Staff Augmentation & Embedded Tech Talent — AI Engineers, D365 & Salesforce Architects, BI Specialists | EaseHawk",
+    "ogDescription": "Enterprise-vetted specialists embedded in weeks, cleared for the strictest doors: two specialists inside ADNOC-Fertiglobe via Protiviti, two senior D365 architects on a UAE federal ministry programme via Alpha Data.",
+    "noindex": false,
+    "jsonLd": [
+      "{\"@context\": \"https://schema.org\", \"@type\": \"FAQPage\", \"mainEntity\": [{\"@type\": \"Question\", \"name\": \"How fast can a specialist start?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Weeks, not months — matched, vetted and embedded into your tools and standups. Our fastest augmentation had two developers productive inside weeks; senior architect placements on government programmes ran on federal timelines and still landed on schedule.\"}}, {\"@type\": \"Question\", \"name\": \"How are candidates vetted?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"AI-assisted screening compresses the funnel; humans verify enterprise references and run the technical bar. Every profile we present has already cleared the vetting we'd stake a channel relationship on — because we do, with Protiviti and Alpha Data.\"}}, {\"@type\": \"Question\", \"name\": \"Can you work through our firm — white-label?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Yes, it's how our biggest placements run: through consulting and channel partners into their end clients, with your paper and your brand. Channel-friendly is a design principle, not an accommodation.\"}}, {\"@type\": \"Question\", \"name\": \"What if the fit isn't right?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"We address it directly and fast — fit conversations early in the engagement, and replacement handled without drama. A placement only counts if it's still delivering in month six; that's the record we protect.\"}}]}",
+      "{\"@context\": \"https://schema.org\", \"@type\": \"Organization\", \"name\": \"EaseHawk Technologies Private Limited\", \"url\": \"https://easehawk.com\", \"email\": \"info@easehawk.com\", \"telephone\": [\"+17622787611\", \"+919958478569\"], \"address\": {\"@type\": \"PostalAddress\", \"streetAddress\": \"WeWork India, DLF Forum, Cybercity Phase III\", \"addressLocality\": \"Gurugram\", \"addressRegion\": \"Haryana\", \"postalCode\": \"122002\", \"addressCountry\": \"IN\"}, \"sameAs\": [\"https://www.linkedin.com/company/easehawk\"]}"
+    ],
+    "accent": "#FF810F",
+    "type": "capability",
+    "file": "EaseHawk_Embedded_Talent.html",
+    "form": {
+      "email": "info@easehawk.com",
+      "subjectPrefix": "EaseHawk Embedded Talent enquiry — ",
+      "source": "Embedded Talent landing page"
+    }
+  },
+  "privacy-policy": {
+    "title": "Privacy Policy | EaseHawk Technologies",
+    "description": "How EaseHawk Technologies handles personal information — plainly stated. Data controller, what we collect, your rights under DPDP, PDPL and GDPR.",
+    "ogTitle": "Privacy Policy | EaseHawk Technologies",
+    "ogDescription": "How EaseHawk Technologies handles personal information — plainly stated. Data controller, what we collect, your rights under DPDP, PDPL and GDPR.",
+    "noindex": true,
+    "jsonLd": [],
+    "accent": "#FF810F",
+    "type": "legal",
+    "file": "EaseHawk_Privacy_Policy.html"
+  },
+  "terms": {
+    "title": "Terms &amp; Conditions | EaseHawk Technologies",
+    "description": "Terms of use for easehawk.com — content ownership, case-study figures, the website assistant, governing law.",
+    "ogTitle": "Terms &amp; Conditions | EaseHawk Technologies",
+    "ogDescription": "Terms of use for easehawk.com — content ownership, case-study figures, the website assistant, governing law.",
+    "noindex": true,
+    "jsonLd": [],
+    "accent": "#FF810F",
+    "type": "legal",
+    "file": "EaseHawk_Terms.html"
+  },
+  "cookie-policy": {
+    "title": "Cookie Policy | EaseHawk Technologies",
+    "description": "The honest state of cookies on easehawk.com: we set none ourselves; third parties only act when you use them.",
+    "ogTitle": "Cookie Policy | EaseHawk Technologies",
+    "ogDescription": "The honest state of cookies on easehawk.com: we set none ourselves; third parties only act when you use them.",
+    "noindex": true,
+    "jsonLd": [],
+    "accent": "#FF810F",
+    "type": "legal",
+    "file": "EaseHawk_Cookie_Policy.html"
+  }
+}

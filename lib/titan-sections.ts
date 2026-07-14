@@ -1,0 +1,16 @@
+export const TITAN_SCROLL_SECTIONS = [
+  "hero",
+  "strategy",
+  "ai",
+  "data",
+  "cloud",
+  "platforms",
+  "engineering",
+  "branding",
+  "global",
+  "industries",
+  "work",
+  "products",
+  "clients",
+  "contact",
+] as const;

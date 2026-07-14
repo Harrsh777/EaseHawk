@@ -1,16 +1,18 @@
 import Image from "next/image";
 import Link from "next/link";
 import { footerLegal, footerServices } from "@/lib/routes";
+import { siteLogo } from "@/lib/site-logo";
 
 export function Footer() {
   return (
     <footer>
       <div className="foot-top">
         <Image
+          className="foot-logo"
           src="/logo.png"
           alt="EaseHawk Technologies"
-          width={800}
-          height={246}
+          width={siteLogo.footer.width}
+          height={siteLogo.footer.height}
         />
         <nav className="foot-links">
           {footerLegal.map((item) => (

@@ -4,6 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import { mainNav, routes } from "@/lib/routes";
+import { siteLogo } from "@/lib/site-logo";
 import { MobileNav } from "./MobileNav";
 
 type HeaderProps = {
@@ -36,10 +37,11 @@ export function Header({ isHome = false }: HeaderProps) {
       <header id="hdr" className={scrolled ? "scrolled" : undefined}>
         <Link className="logo" href={homeHref}>
           <Image
+            className="site-logo"
             src="/logo.png"
             alt="EaseHawk Technologies"
-            width={800}
-            height={246}
+            width={siteLogo.titanHeader.width}
+            height={siteLogo.titanHeader.height}
             priority
           />
         </Link>

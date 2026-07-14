@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import { useEffect, useState, type ReactNode } from "react";
 import { setIntroStart } from "@/lib/intro";
 import { useProgressRail } from "@/hooks/useProgressRail";
@@ -51,10 +50,8 @@ export function TitanShell({
       if (bar) bar.style.transform = `scaleX(${progress})`;
       if (progress >= 1) {
         window.clearInterval(tick);
-        window.setTimeout(() => {
-          setLoaderDone(true);
-          setIntroStart();
-        }, 400);
+        setLoaderDone(true);
+        setIntroStart();
       }
     }, 90);
 
@@ -90,14 +87,8 @@ export function TitanShell({
     <>
       {showLoader && (
         <div id="loader" className={loaderDone ? "done" : undefined}>
-          <Image
-            className="mark"
-            src="/logo-mark.png"
-            alt=""
-            width={160}
-            height={187}
-            priority
-          />
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img className="mark" src="/logo-mark.png" alt="" />
           <div className="bar">
             <i id="loadbar" />
           </div>

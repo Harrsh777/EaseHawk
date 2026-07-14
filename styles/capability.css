@@ -12,7 +12,7 @@ a{text-decoration:none;color:inherit}
 .frame{max-width:1160px;margin:0 auto;padding:0 28px}
 /* header */
 #hdr{position:fixed;top:0;left:0;right:0;z-index:900;display:flex;align-items:center;justify-content:space-between;gap:16px;padding:14px 28px;background:rgba(6,6,10,.78);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);border-bottom:1px solid rgba(255,255,255,.08)}
-#hdr img{height:34px;display:block}
+#hdr img,#hdr .site-logo{height:34px;width:auto;max-width:none;flex-shrink:0;display:block}
 #hdr .hr{display:flex;align-items:center;gap:20px}
 #hdr .tel{font-family:var(--display);font-size:11px;font-weight:600;letter-spacing:.12em;color:rgba(245,244,248,.8)}
 @media(max-width:700px){#hdr .tel{display:none}}
@@ -113,7 +113,7 @@ h2 b{color:var(--signal)}
 .f-note{margin-top:16px;font-size:13.5px;font-weight:600;color:rgba(250,250,253,.92);letter-spacing:.02em;text-shadow:0 0 14px rgba(255,221,0,.15)}
 /* footer + mobile bar */
 footer{border-top:1px solid rgba(255,255,255,.08);padding:34px 28px;text-align:center}
-footer img{height:30px;opacity:.9}
+footer img{height:30px;width:auto;max-width:none;opacity:.9}
 footer p{margin-top:14px;font-size:11px;color:rgba(245,244,248,.5)}
 footer .fl{margin-top:12px;display:flex;gap:22px;justify-content:center;flex-wrap:wrap;font-family:var(--display);font-size:10px;font-weight:600;letter-spacing:.18em;text-transform:uppercase;color:rgba(245,244,248,.6)}
 footer .fl a:hover{color:var(--signal)}

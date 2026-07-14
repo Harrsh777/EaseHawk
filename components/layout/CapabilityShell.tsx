@@ -4,6 +4,7 @@ import Link from "next/link";
 import type { ReactNode } from "react";
 import { loadCapabilityFooter } from "@/lib/page-content";
 import { routes } from "@/lib/routes";
+import { siteLogo } from "@/lib/site-logo";
 
 type CapabilityShellProps = {
   children: ReactNode;
@@ -21,10 +22,11 @@ export function CapabilityShell({
       <header id="hdr">
         <Link href={routes.home}>
           <Image
+            className="site-logo"
             src="/logo.png"
             alt="EaseHawk Technologies"
-            width={800}
-            height={246}
+            width={siteLogo.titanHeader.width}
+            height={siteLogo.titanHeader.height}
             priority
           />
         </Link>

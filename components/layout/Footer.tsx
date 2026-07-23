@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { footerLegal, footerServices } from "@/lib/routes";
+import { footerLegal } from "@/lib/routes";
 import { siteLogo } from "@/lib/site-logo";
 
 export function Footer() {
@@ -16,13 +16,6 @@ export function Footer() {
         />
         <nav className="foot-links">
           {footerLegal.map((item) => (
-            <Link key={item.href} href={item.href}>
-              {item.label}
-            </Link>
-          ))}
-        </nav>
-        <nav className="foot-links foot-svcs">
-          {footerServices.map((item) => (
             <Link key={item.href} href={item.href}>
               {item.label}
             </Link>

@@ -7,10 +7,14 @@ import { TITAN_SCROLL_SECTIONS } from "@/lib/titan-sections";
 
 type TitanUniverseProps = {
   sectionIds?: readonly string[];
+  dimArr?: readonly number[];
+  coreScale?: readonly number[];
 };
 
 export default function TitanUniverse({
   sectionIds = TITAN_SCROLL_SECTIONS,
+  dimArr,
+  coreScale,
 }: TitanUniverseProps) {
   useEffect(() => {
     const container = document.getElementById("stage");
@@ -32,8 +36,10 @@ export default function TitanUniverse({
       isMobile,
       reduced,
       getIntroStart,
+      dimArr,
+      coreScale,
     });
-  }, [sectionIds]);
+  }, [sectionIds, dimArr, coreScale]);
 
   return null;
 }

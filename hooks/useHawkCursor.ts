@@ -80,9 +80,9 @@ export function useHawkCursor() {
 
     const loop = () => {
       frame = requestAnimationFrame(loop);
-      dot.style.transform = `translate(${x}px,${y}px)`;
       hxx += (x - hxx) * 0.16;
       hxy += (y - hxy) * 0.16;
+      dot.style.transform = `translate(${hxx - 3}px,${hxy - 3}px)`;
       hex.style.transform = `translate(${hxx - 22}px,${hxy - 22}px)`;
 
       if (target) {

@@ -7,6 +7,7 @@ import { Footer } from "./Footer";
 import { Header } from "./Header";
 import { ProfileFab } from "./ProfileFab";
 import { TitanUniverseClient } from "@/components/providers/TitanUniverseClient";
+import type { UniverseProfile } from "@/lib/titan-universe/profiles";
 
 type TitanShellProps = {
   children: ReactNode;
@@ -15,6 +16,7 @@ type TitanShellProps = {
   enableUniverse?: boolean;
   heroSectionId?: string;
   progressSections?: string[];
+  universeProfile?: UniverseProfile;
 };
 
 export function TitanShell({
@@ -24,6 +26,7 @@ export function TitanShell({
   enableUniverse = true,
   heroSectionId = "hero",
   progressSections = [],
+  universeProfile,
 }: TitanShellProps) {
   const [loaderDone, setLoaderDone] = useState(!showLoader);
   useProgressRail(progressSections);
@@ -111,6 +114,8 @@ export function TitanShell({
       <TitanUniverseClient
         enabled={enableUniverse}
         sectionIds={progressSections}
+        dimArr={universeProfile?.dimArr}
+        coreScale={universeProfile?.coreScale}
       />
     </>
   );

@@ -8,19 +8,25 @@ export type TitanUniverseOptions = {
   isMobile: boolean;
   reduced: boolean;
   getIntroStart: () => number;
+  dimArr?: readonly number[];
+  coreScale?: readonly number[];
 };
 
 export function runTitanUniverse(options: TitanUniverseOptions): () => void {
-  const { container, sectionIds, isMobile, reduced, getIntroStart } = options;
+  const { container, sectionIds, isMobile, reduced, getIntroStart, dimArr: dimArrOverride, coreScale: coreScaleOverride } = options;
   const sections = sectionIds;
   /* ================================================================
    THREE.JS UNIVERSE
    ================================================================ */
 if (reduced) return () => {};
 
+// Match legacy three.js r128 rendering (reference HTML) — modern color management darkens particles.
+THREE.ColorManagement.enabled = false;
+
 let renderer: THREE.WebGLRenderer;
 try {
   renderer = new THREE.WebGLRenderer({ antialias: false, alpha: true, powerPreference: "high-performance" });
+  renderer.outputColorSpace = THREE.LinearSRGBColorSpace;
 } catch {
   container.style.display = "none";
   return () => {};
@@ -364,9 +370,9 @@ glow.scale.set(150,150,1);
 coreGroup.add(glow, coreWire, coreInner, shell);
 scene.add(coreGroup);
 /* core visibility per formation (scale) */
-const coreScale = [1, 0.0, 0.35, 0.0, 0.0, 0.55, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8, 0.0, 0.55];
+const coreScale = coreScaleOverride ?? [1, 0.0, 0.35, 0.0, 0.0, 0.55, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8, 0.0, 0.55];
 /* per-chapter particle brightness — text must overpower the universe */
-const dimArr = [1, 0.66, 0.68, 0.66, 0.7, 0.68, 0.66, 0.7, 0.95, 0.66, 0.62, 0.9, 0.68, 0.95];
+const dimArr = dimArrOverride ?? [1, 0.66, 0.68, 0.66, 0.7, 0.68, 0.66, 0.7, 0.95, 0.66, 0.62, 0.9, 0.68, 0.95];
 
 /* ---- Comet layer: perpetual flow across every chapter ---- */
 const CN = isMobile? 60 : 140;

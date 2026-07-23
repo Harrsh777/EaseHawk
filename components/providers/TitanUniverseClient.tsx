@@ -10,12 +10,18 @@ const TitanUniverse = dynamic(
 type TitanUniverseClientProps = {
   enabled?: boolean;
   sectionIds?: readonly string[];
+  dimArr?: readonly number[];
+  coreScale?: readonly number[];
 };
 
 export function TitanUniverseClient({
   enabled = true,
   sectionIds,
+  dimArr,
+  coreScale,
 }: TitanUniverseClientProps) {
   if (!enabled) return null;
-  return <TitanUniverse sectionIds={sectionIds} />;
+  return (
+    <TitanUniverse sectionIds={sectionIds} dimArr={dimArr} coreScale={coreScale} />
+  );
 }
